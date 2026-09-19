@@ -1,3 +1,10 @@
+.logo a {
+  text-decoration: none;
+}
+nav a {
+  text-decoration: none;
+}
+
 * {
   margin: 0;
   padding: 0;
